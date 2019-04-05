@@ -1,0 +1,4 @@
+Masha - 10
+Sasha - 20
+Petya - 45
+Vasya - 98
